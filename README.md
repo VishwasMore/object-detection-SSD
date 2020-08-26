@@ -1,5 +1,5 @@
 # Object Detection with SSD
 
 
-
-![](https://gifs.com/gif/BNZ2Rn)
+Output :
+[GIF Link](https://gifs.com/gif/BNZ2Rn)
